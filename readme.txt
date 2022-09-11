@@ -1,0 +1,1 @@
+Small project to search emoji in Santali language.
